@@ -59,6 +59,8 @@ Only official program pages are listed.
 | [Google Cloud AI Startup Program](https://cloud.google.com/startup/ai) | Google | AI startup credits (up to $350k) |
 | [Microsoft Founders Hub](https://www.microsoft.com/startups) | Microsoft | Azure credits |
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
+| [PostHog for Startups](https://posthog.com/startups) | PostHog | Startups | Product analytics credits (up to ~$50k) |
+| [Retool for Startups](https://retool.com/startups) | Retool | Startups | Free Retool access for early-stage startups (up to ~$60k value) |
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation + partner perks |
 
 ---
