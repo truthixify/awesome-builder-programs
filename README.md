@@ -31,6 +31,7 @@ Only official program pages are listed.
 
 | Program | Provider | Benefit |
 |---|---|---|
+| [Cursor for Students](https://cursor.com/students) | Cursor | Students | Cursor Pro free for 1 year (~$240 value) |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | GitHub | Developer tools bundle (~$10k value) |
 | [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools for students building AI projects (~25K value) |
 | [JetBrains Student Pack](https://www.jetbrains.com/community/education/#students) | JetBrains | Free IDE licenses |
