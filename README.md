@@ -49,6 +49,7 @@ Only official program pages are listed.
 | [OpenAI Codex for Open Source](https://openai.com/form/codex-for-oss/) | OpenAI | ChatGPT Pro access 6 month  |
 | [OpenAI Codex Open Source Fund](https://openai.com/form/codex-open-source-fund/) | OpenAI | API credits (up to $25k) |
 | [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | Claude Max access 6 month |
+| [Upstash for Open Source](https://upstash.com/open-source) | Upstash | $1,000 Monthly credit grant |
 
 ---
 
@@ -66,6 +67,7 @@ Only official program pages are listed.
 | [PostHog for Startups](https://posthog.com/startups) | PostHog | Startups | Product analytics credits (up to ~$50k) |
 | [Retool for Startups](https://retool.com/startups) | Retool | Startups | Free Retool access for early-stage startups (up to ~$60k value) |
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation + partner perks |
+| [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Get up to $5,000 in credits and priority support |
 
 ---
 
