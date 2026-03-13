@@ -81,6 +81,7 @@ Only official program pages are listed.
 | [Hugging Face Startups](https://huggingface.co/startups) | Hugging Face | AI infrastructure support |
 | [Kiro](https://kiro.dev/startups/) | Kiro | Kiro Pro+ credits at three tiered packages 1 years |
 | [OpenAI Startup Program](https://openai.com/startups) | OpenAI | API credits |
+| [Together AI Research Credits Program](https://www.together.ai/research-credits-program-request) | Together AI | Research credits for AI projects |
 
 ---
 
