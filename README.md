@@ -34,11 +34,11 @@ Only official program pages are listed.
 | [Autodesk Education Plan](https://www.autodesk.com/education/edu-software/overview) | Autodesk | Free access to Autodesk software for students |
 | [Cursor for Students](https://cursor.com/students) | Cursor | Students | Cursor Pro free for 1 year (~$240 value) |
 | [DigitalOcean Student Credits](https://www.digitalocean.com/github-students) | DigitalOcean | Cloud credits via GitHub Student Developer Pack |
+| [Figma for Education](https://www.figma.com/education/) | Figma | Free design tools for students |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | GitHub | Developer tools bundle (~$10k value) |
-| [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools for students building AI projects (~25K value) |
 | [JetBrains Student Pack](https://www.jetbrains.com/community/education/#students) | JetBrains | Free IDE licenses |
 | [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) | Microsoft | Azure credits and dev tools |
-| [Figma for Education](https://www.figma.com/education/) | Figma | Free design tools for students |
+| [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools for students building AI projects (~25K value) |
 
 ---
 
@@ -46,9 +46,9 @@ Only official program pages are listed.
 
 | Program | Provider | Benefit |
 |---|---|---|
+| [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | Claude Max access 6 month |
 | [OpenAI Codex for Open Source](https://openai.com/form/codex-for-oss/) | OpenAI | ChatGPT Pro access 6 month  |
 | [OpenAI Codex Open Source Fund](https://openai.com/form/codex-open-source-fund/) | OpenAI | API credits (up to $25k) |
-| [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | Claude Max access 6 month |
 | [Upstash for Open Source](https://upstash.com/open-source) | Upstash | $1,000 Monthly credit grant |
 
 ---
@@ -60,15 +60,15 @@ Only official program pages are listed.
 | [AWS Activate](https://aws.amazon.com/startups/credits) | AWS | Cloud credits (up to $100k) |
 | [Clerk for Startups](https://clerk.com/startups) | Clerk | Authentication infrastructure credits |
 | [Datadog for Startups|(https://www.datadoghq.com/partner/datadog-for-startups/) | Datadog | A year of free Datadog Pro |
-| [Google Cloud Startup Program](https://cloud.google.com/startup) | Google | Cloud credits and support |
 | [Google Cloud AI Startup Program](https://cloud.google.com/startup/ai) | Google | AI startup credits (up to $350k) |
+| [Google Cloud Startup Program](https://cloud.google.com/startup) | Google | Cloud credits and support |
 | [Microsoft Founders Hub](https://www.microsoft.com/startups) | Microsoft | Azure credits |
-| [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
 | [PlanetScale for Startups](https://planetscale.com/startups) | PlanetScale | Serverless MySQL database credits |
 | [PostHog for Startups](https://posthog.com/startups) | PostHog | Startups | Product analytics credits (up to ~$50k) |
 | [Retool for Startups](https://retool.com/startups) | Retool | Startups | Free Retool access for early-stage startups (up to ~$60k value) |
-| [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation + partner perks |
 | [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Get up to $5,000 in credits and priority support |
+| [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation + partner perks |
+| [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
 
 ---
 
@@ -76,10 +76,10 @@ Only official program pages are listed.
 
 | Program | Provider | Benefit |
 |---|---|---|
-| [OpenAI Startup Program](https://openai.com/startups) | OpenAI | API credits |
 | [Anthropic Startup Program](https://www.anthropic.com/startups) | Anthropic | Claude API credits |
 | [Hugging Face Startups](https://huggingface.co/startups) | Hugging Face | AI infrastructure support |
 | [Kiro](https://kiro.dev/startups/) | Kiro | Kiro Pro+ credits at three tiered packages 1 years |
+| [OpenAI Startup Program](https://openai.com/startups) | OpenAI | API credits |
 
 ---
 
