@@ -28,7 +28,6 @@ Only official program pages are listed.
 
 | Program | Provider | Benefit |
 |---|---|---|
-| [Autodesk Education Plan](https://www.autodesk.com/education/edu-software/overview) | Autodesk | Free access to Autodesk software for students |
 | [Cursor for Students](https://cursor.com/students) | Cursor | Students | Cursor Pro free for 1 year (~$240 value) |
 | [DigitalOcean Student Credits](https://www.digitalocean.com/github-students) | DigitalOcean | Cloud credits via GitHub Student Developer Pack |
 | [Figma for Education](https://www.figma.com/education/) | Figma | Free design tools for students |
