@@ -21,10 +21,7 @@ Only official program pages are listed.
 * [Open source](#open-source)
 * [Startups](#startups)
 * [AI and developer credits](#ai-and-developer-credits)
-* [Cloud and infrastructure](#cloud-and-infrastructure)
 * [Contributing](#contributing)
-* [License](#license)
-
 ---
 
 ## Students
@@ -60,7 +57,7 @@ Only official program pages are listed.
 |---|---|---|
 | [AWS Activate](https://aws.amazon.com/startups/credits) | AWS | Cloud credits (up to $100k) |
 | [Clerk for Startups](https://clerk.com/startups) | Clerk | Authentication infrastructure credits |
-| [Datadog for Startups|(https://www.datadoghq.com/partner/datadog-for-startups/) | Datadog | A year of free Datadog Pro |
+| [Datadog for Startups](https://www.datadoghq.com/partner/datadog-for-startups/) | Datadog | A year of free Datadog Pro |
 | [Google Cloud AI Startup Program](https://cloud.google.com/startup/ai) | Google | AI startup credits (up to $350k) |
 | [Google Cloud Startup Program](https://cloud.google.com/startup) | Google | Cloud credits and support |
 | [Microsoft Founders Hub](https://www.microsoft.com/startups) | Microsoft | Azure credits |
@@ -70,7 +67,7 @@ Only official program pages are listed.
 | [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Get up to $5,000 in credits and priority support |
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation + partner perks |
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
-
+| [ZAI Startups](https://startup.z.ai/) | Z Ai | Free API Credits ZAI model |
 ---
 
 ## AI and Developer Credits
