@@ -88,18 +88,19 @@ Only official program pages are listed.
 
 # Contributing
 
-Contributions are welcome.
+Contributions are welcome!
 
 Before adding a program:
 
-* link to the official program page
-* make sure the program is still active
-* avoid affiliate or referral links
+* Link to the official program page
+* Make sure the program is still active
+* Avoid affiliate or referral links
 
-Format:
+**Format for adding a new program:**
 
-```
-- [Program name](link) — short description.
+```markdown
+| [Program Name](https://official-page.com) | Provider | Description of benefits |
+|---|---|---|
 ```
 
 Submit a pull request to add new programs.
