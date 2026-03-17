@@ -21,6 +21,7 @@ Only official program pages are listed.
 * [Open source](#open-source)
 * [Startups](#startups)
 * [AI and developer credits](#ai-and-developer-credits)
+* [Ambassadors](#ambassadors)
 * [Contributing](#contributing)
 ---
 
@@ -85,6 +86,8 @@ Only official program pages are listed.
 | [Together AI Research Credits Program](https://www.together.ai/research-credits-program-request) | Together AI | Research credits for AI projects |
 
 ---
+## Ambassadors
+| [OpenAI Ambassadors Program](https://developers.openai.com/codex/ambassadors) | OpenAI | API credits |
 
 # Contributing
 
