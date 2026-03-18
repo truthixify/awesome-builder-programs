@@ -88,6 +88,10 @@ Only official program pages are listed.
 
 ---
 ## Ambassadors
+
+| Program | Provider | Benefit |
+|---|---|---|
+| [Claude Code](https://claude.com/community/ambassadors) | Anthropic | API Credits |
 | [OpenAI Ambassadors Program](https://developers.openai.com/codex/ambassadors) | OpenAI | API credits |
 
 # Contributing
