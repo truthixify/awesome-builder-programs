@@ -63,6 +63,7 @@ Only official program pages are listed.
 | [Datadog for Startups](https://www.datadoghq.com/partner/datadog-for-startups/) | Datadog | A year of free Datadog Pro |
 | [Google Cloud AI Startup Program](https://cloud.google.com/startup/ai) | Google | AI startup credits (up to $350k) |
 | [Google Cloud Startup Program](https://cloud.google.com/startup) | Google | Cloud credits and support |
+| [Kiro for students](https://kiro.dev/students/) | Kiro | 1,000 credits per month free for one year | 
 | [Microsoft Founders Hub](https://www.microsoft.com/startups) | Microsoft | Azure credits |
 | [PlanetScale for Startups](https://planetscale.com/startups) | PlanetScale | Serverless MySQL database credits |
 | [PostHog for Startups](https://posthog.com/startups) | PostHog | Startups | Product analytics credits (up to ~$50k) |
