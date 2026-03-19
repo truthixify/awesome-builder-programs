@@ -58,6 +58,7 @@ Only official program pages are listed.
 | Program | Provider | Benefit |
 |---|---|---|
 | [AWS Activate](https://aws.amazon.com/startups/credits) | AWS | Cloud credits (up to $100k) |
+| [Cloudflare for Startups](https://www.cloudflare.com/forstartups/) | Cloudflare | Get up to $250,000 in Cloudflare credits |
 | [Clerk for Startups](https://clerk.com/startups) | Clerk | Authentication infrastructure credits |
 | [Daytona](https://www.daytona.io/startups) | Daytona | $50k in Daytona credits |
 | [Datadog for Startups](https://www.datadoghq.com/partner/datadog-for-startups/) | Datadog | A year of free Datadog Pro |
