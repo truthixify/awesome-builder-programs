@@ -99,6 +99,13 @@ Only official program pages are listed.
 | [Claude Code](https://claude.com/community/ambassadors) | Anthropic | API Credits |
 | [OpenAI Ambassadors Program](https://developers.openai.com/codex/ambassadors) | OpenAI | API credits |
 
+---
+## Program
+
+| Program | Provider | Benefit |
+|---|---|---|
+| [Research Residency Program](https://www.perplexity.ai/hub/ai-research-residency) | Perplexity | $220,000 annualized base salary. |
+
 # Contributing
 
 Contributions are welcome!
